@@ -35,7 +35,7 @@ This process ensures both **speed and accountability**, without compromising cit
 
 ---
 
-## 🧩 Who Is Involved
+## 🧩 Who should be involved
 | Partner | Role |
 |----------|------|
 | **DGTA (Federal Transport Authority)** | Leads policy and regulation |
